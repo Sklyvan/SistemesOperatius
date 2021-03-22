@@ -1,0 +1,2 @@
+# SistemesOperatius
+LongLiveLinux
