@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/sklyvan/Documents/UPF/Curs 2/2 Trimestre/Sistemes Operatius/Exam Work/Philosophers/Main.c
+stdio.h
+-
+semaphore.h
+-
+pthread.h
+-
+stdlib.h
+-
+unistd.h
+-
+wait.h
+-
+string.h
+-
+stdbool.h
+-
+

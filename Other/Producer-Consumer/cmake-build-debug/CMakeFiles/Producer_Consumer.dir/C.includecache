@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/sklyvan/Documents/Sistemes Operatius/Exam Work/Producer-Consumer/Main.c
+stdio.h
+-
+pthread.h
+-
+unistd.h
+-
+
