@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/sklyvan/Documents/UPF/Curs 2/2 Trimestre/Sistemes Operatius/Seminari 1/Code/main.c
+stdio.h
+-
+unistd.h
+-
+fcntl.h
+-
+stdlib.h
+-
+
