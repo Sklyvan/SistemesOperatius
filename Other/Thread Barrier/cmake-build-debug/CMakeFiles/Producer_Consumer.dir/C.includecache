@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/sklyvan/Documents/Sistemes Operatius/Exam Work/Thread Barrier/SemaphoresBarrier.c
+stdio.h
+-
+pthread.h
+-
+unistd.h
+-
+semaphore.h
+-
+
