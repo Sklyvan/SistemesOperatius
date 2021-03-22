@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/Code.dir/myutils.c.o CMakeFiles/Code.dir/Mandelbrot_Threaded_4.c.o  -o Code  -lpthread 
