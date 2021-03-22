@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/sklyvan/Documents/UPF/Curs 2/2 Trimestre/Sistemes Operatius/Exam Work/Square Index/main.c
+stdio.h
+-
+semaphore.h
+-
+pthread.h
+-
+fcntl.h
+-
+stdlib.h
+-
+unistd.h
+-
+wait.h
+-
+string.h
+-
+sys/stat.h
+-
+sys/shm.h
+-
+
