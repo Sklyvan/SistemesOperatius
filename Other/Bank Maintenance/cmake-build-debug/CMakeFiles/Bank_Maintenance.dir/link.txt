@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/Bank_Maintenance.dir/main.c.o  -o Bank_Maintenance 

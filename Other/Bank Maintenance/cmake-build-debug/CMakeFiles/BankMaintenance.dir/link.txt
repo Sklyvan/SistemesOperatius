@@ -1,0 +1,1 @@
+/usr/bin/cc  -pthread -g   CMakeFiles/BankMaintenance.dir/main.c.o CMakeFiles/BankMaintenance.dir/PipeComunication.c.o  -o BankMaintenance 

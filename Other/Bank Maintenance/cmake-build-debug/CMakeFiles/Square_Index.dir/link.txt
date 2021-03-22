@@ -1,0 +1,1 @@
+/usr/bin/cc  -pthread -g   CMakeFiles/Square_Index.dir/main.c.o  -o Square_Index 
