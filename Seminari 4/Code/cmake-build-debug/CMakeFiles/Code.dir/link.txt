@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/Code.dir/main.c.o  -o Code 
