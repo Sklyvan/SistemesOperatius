@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/Code.dir/main.c.o CMakeFiles/Code.dir/PipeChainStructure.c.o CMakeFiles/Code.dir/Monitors.c.o CMakeFiles/Code.dir/ExeclpSysCall.c.o  -o Code  -lpthread 
