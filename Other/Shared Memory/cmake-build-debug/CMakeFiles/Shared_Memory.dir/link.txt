@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/Shared_Memory.dir/main.c.o  -o Shared_Memory  -lpthread 

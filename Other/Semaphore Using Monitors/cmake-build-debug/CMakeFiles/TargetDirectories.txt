@@ -1,0 +1,3 @@
+/home/sklyvan/Desktop/UPF/Curs 2/2 Trimestre/Sistemes Operatius/Exam Work/Semaphore Using Monitors/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/sklyvan/Desktop/UPF/Curs 2/2 Trimestre/Sistemes Operatius/Exam Work/Semaphore Using Monitors/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/sklyvan/Desktop/UPF/Curs 2/2 Trimestre/Sistemes Operatius/Exam Work/Semaphore Using Monitors/cmake-build-debug/CMakeFiles/SemaphoreUsingMonitors.dir

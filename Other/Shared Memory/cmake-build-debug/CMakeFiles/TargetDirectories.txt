@@ -1,0 +1,3 @@
+/home/sklyvan/Documents/UPF/Curs 2/2 Trimestre/Sistemes Operatius/Exam Work/Shared Memory/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/sklyvan/Documents/UPF/Curs 2/2 Trimestre/Sistemes Operatius/Exam Work/Shared Memory/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/sklyvan/Documents/UPF/Curs 2/2 Trimestre/Sistemes Operatius/Exam Work/Shared Memory/cmake-build-debug/CMakeFiles/Shared_Memory.dir

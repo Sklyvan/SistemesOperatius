@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/SemaphoreUsingMonitors.dir/Main.c.o  -o SemaphoreUsingMonitors  -lpthread 
