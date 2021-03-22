@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/sklyvan/Documents/UPF/Curs 2/2 Trimestre/Sistemes Operatius/Seminari 2/Code/main.c
+pthread.h
+-
+stdio.h
+-
+unistd.h
+-
+

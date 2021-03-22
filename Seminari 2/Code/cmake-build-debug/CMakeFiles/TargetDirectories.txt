@@ -1,0 +1,3 @@
+/home/sklyvan/Documents/UPF/Curs 2/2 Trimestre/Sistemes Operatius/Seminari 2/Code/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/sklyvan/Documents/UPF/Curs 2/2 Trimestre/Sistemes Operatius/Seminari 2/Code/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/sklyvan/Documents/UPF/Curs 2/2 Trimestre/Sistemes Operatius/Seminari 2/Code/cmake-build-debug/CMakeFiles/Code.dir
