@@ -1,0 +1,54 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/sklyvan/Documents/UPF/Curs 2/2 Trimestre/Sistemes Operatius/Pràctica 4/Code/Bank_Transfer.c
+pthread.h
+-
+stdio.h
+-
+stdlib.h
+-
+stdbool.h
+-
+unistd.h
+-
+sys/file.h
+-
+sys/wait.h
+-
+semaphore.h
+-
+myutils.h
+/home/sklyvan/Documents/UPF/Curs 2/2 Trimestre/Sistemes Operatius/Pràctica 4/Code/myutils.h
+
+/home/sklyvan/Documents/UPF/Curs 2/2 Trimestre/Sistemes Operatius/Pràctica 4/Code/myutils.h
+sys/time.h
+-
+sys/types.h
+-
+sys/socket.h
+-
+netinet/in.h
+-
+netdb.h
+-
+unistd.h
+-
+fcntl.h
+-
+stdlib.h
+-
+stdio.h
+-
+stdbool.h
+-
+string.h
+-
+pthread.h
+-
+
